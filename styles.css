@@ -1,0 +1,192 @@
+*{
+  background-color: black;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #fff;
+}
+/* NAVBAR START */
+.navbar{
+    position: absolute;
+    position: sticky;
+    left: 270px;
+    top: -8px;
+    width: 75%;
+    height: 13%;
+    text-align: center;
+}
+.navlinks{
+  border-radius: 8px;
+  border: 2px solid white;
+  background-color: transparent;
+
+  width: 98%;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  margin-left: 360px;
+}
+li{
+  float: left;
+}
+li a{
+  display: block;
+  font-size: 1.4rem;
+  padding: 20px;
+  font-size: 1.3rem;
+  margin-left: 35px;
+  color: #fff;
+}
+/* NAVBAR END */
+
+/* MAIN STYLES */
+.section1{
+  position: relative;
+  min-height: 45vh;
+  width: 70%;
+  top: 10rem;
+  left: 17%;
+  display: flex;
+
+}
+.header1{
+  width: 70%;
+  
+}
+.card1-container{
+  width: 65%;
+  height: 700px;
+}
+.para1{
+  width: 60%;
+  font-weight: 400;
+  font-size: 1.1rem;
+}
+.para2{
+  position: relative;
+  width: 60%;
+  bottom: 10px;
+  font-weight: 300;
+}
+
+.button1{
+  width: 33%;
+  top: 2px;
+  position: relative;
+  border: 1px solid whitesmoke;
+  border-radius: 6px;
+  padding: 6px 6px 6px 6px;
+  height: 20px;
+  justify-content: center;
+}
+.button-1{
+  width: 100%;
+  background-color: transparent;
+  font-weight: lighter;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  position: relative;
+ bottom: 16px;
+ left: 7px;
+ justify-content: center;
+}
+.card1-section1{
+  display: flex;
+  width: 60%;
+  position: relative;
+  left: 20px;
+  top: 23px;
+  justify-content: space-between;
+}
+.card1-header{
+  display: flex;
+  width: 80%;
+}
+.card1-body{
+  width: 80%;
+  font-size: 1.7rem;
+}
+.card1-footer p{
+  font-size: 1.4rem;
+  color: gray;
+  width: 90%;
+  margin-top: 60px;
+}
+ .fa {
+  padding: 6px 6px 6px 6px;
+  font-size: 20px;
+  width: 35px;
+  text-align: center;
+  text-decoration: none;
+  border: thin solid white;
+  border-radius: 6px;
+  height: 22px;
+
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-instagram {
+  color: white;
+}
+.fa-twitter {
+  color: white;
+}
+.card2-container{
+  position: relative;
+  width: 47%;
+  left: 100%;
+  bottom: 45%;
+}
+.card2-image{
+  position: relative;
+  bottom: 100px;
+  padding: 5px; 
+  width: 100%;
+  justify-content: center;
+  border: 0.3px solid black;
+  border-radius: 20px;
+}
+.bitmoji1{
+  border: 0.3px solid black;
+  border-radius: 20px;
+}
+
+.card3-container{
+  width: 60%;
+  height: 200px;
+}
+.marquee{
+  position: relative;
+}
+h3{
+  font-style: normal;
+  width: 20%;
+  position: relative;
+  left: 75%;
+}
+strong{
+  font-style: oblique;
+}
+.marquee1{
+  position: relative;
+  left: 650px;
+  width: 60%;
+  height: 300px;
+}
+.marquee1 img{
+  width: 20%;
+  height: 100px;
+  gap: 300px;
+}
+.marquee-img{
+  width: 30%;
+  height: 150px;
+}
+.marquee-img-python{
+  margin-left: 20px;
+}
+/* MAIN STYLES */
